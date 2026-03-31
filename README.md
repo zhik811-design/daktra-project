@@ -126,7 +126,7 @@
 
 <header class="main-header">
     <a href="/" class="logo">
-        <img src="IMG_8608.PNG" alt="DAKTRA LOGO">
+        <img src="IMG_8608.jpeg" alt="DAKTRA LOGO">
     </a>
     
     <nav class="nav-menu">
@@ -206,7 +206,7 @@
     <h2 class="section-title">Новости и статьи</h2>
     <div class="news-grid">
         <div class="news-card">
-            <img src="IMG_8743.WEBP" alt="Скидки">
+            <img src="IMG_8743.webp" alt="Скидки">
             <div class="news-body">
                 <div class="news-date">26 марта 2026</div>
                 <h4>Обновление сетки скидок от объема</h4>
